@@ -1,0 +1,12 @@
+- restart button
+- operator icons
+- wide bars
+- widen space between subplots
+- full screen & window positioning
+- popping out
+- background & animation
+- change profile button
+- add other stats:
+	- KDA
+	- win\lose
+- how much plot changed since the last time
