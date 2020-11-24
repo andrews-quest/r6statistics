@@ -2,6 +2,7 @@ import bs4 as bs
 import urllib.request
 import re
 
+
 # https://habr.com/ru/post/488720/
 def retrieve_data():
     url = 'https://r6.tracker.network/profile/pc/AndrewSQuest/operators'
